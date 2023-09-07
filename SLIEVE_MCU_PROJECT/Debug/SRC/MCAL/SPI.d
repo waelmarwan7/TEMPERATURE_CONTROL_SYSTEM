@@ -1,0 +1,12 @@
+SRC/MCAL/SPI.o SRC/MCAL/SPI.o: ../SRC/MCAL/SPI.c \
+  ../SRC/MCAL/../../LIB/STD_TYPES.h ../SRC/MCAL/../../LIB/BIT_MATH.h \
+  ../SRC/MCAL/../../HEADERS/MCAL/DIO.h \
+  ../SRC/MCAL/../../HEADERS/MCAL/SPI.h
+
+../SRC/MCAL/../../LIB/STD_TYPES.h:
+
+../SRC/MCAL/../../LIB/BIT_MATH.h:
+
+../SRC/MCAL/../../HEADERS/MCAL/DIO.h:
+
+../SRC/MCAL/../../HEADERS/MCAL/SPI.h:

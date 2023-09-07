@@ -1,0 +1,11 @@
+SRC/HAL/CLCD.o SRC/HAL/CLCD.o: ../SRC/HAL/CLCD.c \
+  ../SRC/HAL/../../LIB/STD_TYPES.h ../SRC/HAL/../../LIB/BIT_MATH.h \
+  ../SRC/HAL/../../HEADERS/MCAL/DIO.h ../SRC/HAL/../../HEADERS/HAL/CLCD.h
+
+../SRC/HAL/../../LIB/STD_TYPES.h:
+
+../SRC/HAL/../../LIB/BIT_MATH.h:
+
+../SRC/HAL/../../HEADERS/MCAL/DIO.h:
+
+../SRC/HAL/../../HEADERS/HAL/CLCD.h:
