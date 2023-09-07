@@ -26,4 +26,5 @@ duty cycle of 50% plus 10% for every additional 5 degrees)
 - When one motor is on, the other motor should be off
 
 # Design
-![DesignImage](https://github.com/Rez79Kh/Temperature-Control-System/blob/main/Design/DesignImage.png?raw=true)
+
+![GP1](https://github.com/waelmarwan7/TEMPERATURE_CONTROL_SYSTEM/assets/91396631/19d7ce7e-fc26-4e21-b32c-abdc22da5c37)
